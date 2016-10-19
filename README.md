@@ -5,7 +5,7 @@
     npm install
     npm start # build the bundle.js with webpack
 
-## How to use bundle.js
+## How to use `dist/bundle.js`
     
-    - `node dist/bundle.js`: You should see "Hello World!"
-    - Copy the content of `dist/bundle.js` to a jsfiddle, you should see "Hello World!" in your browser console.
+- `node dist/bundle.js`: You should see "Hello World!"
+- Copy the content of `dist/bundle.js` to a jsfiddle and hit run, you should see "Hello World!" in your browser console.
